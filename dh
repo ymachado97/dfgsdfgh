@@ -1,0 +1,24 @@
+# comment
+
+%%file mymodule.py
+
+degrees = 0
+
+def angles():
+   
+   2
+   
+    return degrees
+    
+class MyClass:
+    
+
+    def __init__(self):
+        self.variable = my_variable
+        
+    def set_variable(self, new_value):
+       
+       self.variable = new_value
+        
+    def get_variable(self):
+        return self.variable
